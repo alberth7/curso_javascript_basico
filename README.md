@@ -1,3 +1,5 @@
+# Curso de JavaScript básico
+
 [Clase 1 ¿Qué es JavaScript?](#clase-1-¿qué-es-javascript)
 
 [Clase 2 ¿Cómo nace Javascript?](#clase-2-¿cómo-nace-javascript)
