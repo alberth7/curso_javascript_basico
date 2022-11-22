@@ -28,8 +28,19 @@
 
 [Clase 15 Loops: For y For...of](#clase-15-loops-for-y-forof)
 
+[Clase 16 Loops: While](#clase-16-loops-while)
 
-## Clase 1 ¿Qué es JavaScript?
+[Clase 17 Objects](#clase-17-objects)
+
+[Clase 18 Objects: Función constructora](#clase-18-objects-función-constructora)
+
+[Clase 19 Métodos de recorridos de Arrays](#clase-19-métodos-de-recorridos-de-arrays)
+
+[Clase 20 Recorriendo Arrays con .find(), .forEach() y .some()](#clase-20-recorriendo-arrays-con-find-foreach-y-some)
+
+[Clase 21 Eliminando elementos de un Array](#clase-21-eliminando-elementos-de-un-array)
+
+
 
 Hava Script es un lenguaje de porgramación dinámico que tiene la capacidad de ser utilizado en muchos dispositivos diferentes.  Puede usarse en ordenadores personales, servidores web y teléfonos inteligentes. Es un lenguaje interpretado, orientado a objetos, débilmente tipado y dinámico.
 
@@ -1434,8 +1445,3 @@ Bonus Track
 Si ya entendiste cómo funciona .shift() aplicar .pop() te será pan comido 🍞. El método .pop() eliminará el último elemento de un array. En este sentido, si tenemos un array de 5 elementos, pop() eliminará el elemento en el índice 4. Utilicemos el mismo ejemplo pero usando este método.
 
 
-## Clase 22 
-
-## Clase 23 
-
-## Clase 24 
